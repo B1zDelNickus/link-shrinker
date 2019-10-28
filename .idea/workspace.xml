@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c55810a-05a8-407b-8407-a143fac46d89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SpcXdVjGnGfofiVF5FNkWiIYF2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spectrum" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LinkShrinkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="linkshrinker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.linkshrinker.LinkShrinkerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c55810a-05a8-407b-8407-a143fac46d89" name="Default Changelist" comment="" />
+      <created>1572264018770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572264018770</updated>
+      <workItem from="1572264020040" duration="251000" />
+      <workItem from="1572264359589" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="572" y="433" width="574" height="210" key="Github.ShareDialog" timestamp="1572264469189">
+      <screen x="57" y="24" width="1863" height="1056" />
+    </state>
+    <state x="572" y="433" width="574" height="210" key="Github.ShareDialog/57.24.1863.1056@57.24.1863.1056" timestamp="1572264469189" />
+    <state x="450" y="246" key="Github.UntrackedFilesDialog" timestamp="1572264483191">
+      <screen x="57" y="24" width="1863" height="1056" />
+    </state>
+    <state x="450" y="246" key="Github.UntrackedFilesDialog/57.24.1863.1056@57.24.1863.1056" timestamp="1572264483191" />
+    <state x="588" y="274" key="Vcs.Push.Dialog.v2" timestamp="1572264604886">
+      <screen x="57" y="24" width="1863" height="1056" />
+    </state>
+    <state x="588" y="274" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1572264604886" />
+  </component>
+</project>
